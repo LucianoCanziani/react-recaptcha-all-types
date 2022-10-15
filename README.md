@@ -1,0 +1,1 @@
+# react-recaptcha-all-types
