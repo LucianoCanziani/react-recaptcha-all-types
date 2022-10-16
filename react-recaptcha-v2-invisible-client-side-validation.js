@@ -26,6 +26,7 @@ const App = () => {
           sitekey="Here you add your reCaptcha API key"
           size="invisible"
           type="image"// or audio test
+          badge="bottomleft" // or you can place it with bottomright and inline
         />
         <button type="submit">Send</button>
       </form>
